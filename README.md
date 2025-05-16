@@ -13,7 +13,7 @@ This Gradio app lets you **translate text or speech into another language** and 
 - 🔤 **Text Translation**: Type in any sentence and get a translation with audio output.
 - 🎙️ **Voice Input**: Speak into your mic and get your speech transcribed, translated, and read back.
 - 🧠 **Automatic Language Detection** for source text.
-- 🌐 Supports **60+ Languages** (based on gTTS support + NLLB).
+- 🌐 Supports **50+ Languages** (based on gTTS support + NLLB).
 
 ---
 
