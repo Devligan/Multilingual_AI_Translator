@@ -53,7 +53,7 @@ This Gradio app lets you **translate text or speech into another language** and 
 ## ⚠️ Limitations
 
 - **Performance may be slow** on Hugging Face free-tier CPUs. For better speed:
-  - Use a GPU Space (requires community grant or paid plan).
+  - Run Locally.
   - Use shorter text/audio.
 - `gTTS` requires internet and may fail if rate-limited or offline.
 - Not all NLLB languages are supported in `gTTS`.
