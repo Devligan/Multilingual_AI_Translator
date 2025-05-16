@@ -71,7 +71,7 @@ This Gradio app lets you **translate text or speech into another language** and 
 
 ## 🧪 Try It Out
 
-Click the [here](https://huggingface.co/spaces/Devligan/Multilingual_AI_Translator) and give it a try!
+Click [here](https://huggingface.co/spaces/Devligan/Multilingual_AI_Translator) and give it a try!
 
 
 Check out the configuration reference [here](https://huggingface.co/docs/hub/spaces-config-reference)
